@@ -12,7 +12,7 @@ You are free in your selection of prediction models and architecture. The input 
 
 ## Evaluation
 
-You should aim for a model with a classification accuracy of >90% on the out-of-sample test set.
+You should aim for a model with a classification accuracy of >70% on the out-of-sample test set.
 
 ## Deliverable
 
